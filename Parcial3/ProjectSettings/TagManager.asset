@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Obstaculo
+  - Piso
   layers:
   - Default
   - TransparentFX
