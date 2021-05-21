@@ -4761,9 +4761,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Salir
-
-'
+  m_Text: Creditos
 --- !u!222 &915703576
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6772,13 +6770,13 @@ MonoBehaviour:
       transitions: []
       actionData:
         actionNames:
-        - HutongGames.PlayMaker.Actions.ApplicationQuit
+        - HutongGames.PlayMaker.Actions.LoadLevel
         customNames:
         - 
         actionEnabled: 01
         actionIsOpen: 01
         actionStartIndex: 00000000
-        actionHashCodes: dcbe4804
+        actionHashCodes: e688d305
         unityObjectParams: []
         fsmGameObjectParams: []
         fsmOwnerDefaultParams: []
@@ -6788,36 +6786,49 @@ MonoBehaviour:
         fsmEventTargetParams: []
         fsmPropertyParams: []
         layoutOptionParams: []
-        fsmStringParams: []
+        fsmStringParams:
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: Creditos
         fsmObjectParams: []
         fsmVarParams: []
         fsmArrayParams: []
         fsmEnumParams: []
         fsmFloatParams: []
-        fsmIntParams:
+        fsmIntParams: []
+        fsmBoolParams:
         - useVariable: 0
           name: 
           tooltip: 
           showInInspector: 0
           networkSync: 0
           value: 0
-        fsmBoolParams: []
         fsmVector2Params: []
         fsmVector3Params: []
         fsmColorParams: []
         fsmRectParams: []
         fsmQuaternionParams: []
-        stringParams: []
-        byteData: 
+        stringParams:
+        - 
+        - 
+        byteData: 0000
         arrayParamSizes: 
         arrayParamTypes: []
         customTypeSizes: 
         customTypeNames: []
-        paramDataType: 10000000
+        paramDataType: 120000000100000001000000170000001100000017000000
         paramName:
-        - exitCode
-        paramDataPos: 00000000
-        paramByteDataSize: 00000000
+        - levelName
+        - additive
+        - async
+        - loadedEvent
+        - dontDestroyOnLoad
+        - failedEvent
+        paramDataPos: 000000000000000001000000000000000000000001000000
+        paramByteDataSize: 000000000100000001000000000000000000000000000000
     events:
     - name: Clicked
       isSystemEvent: 0
