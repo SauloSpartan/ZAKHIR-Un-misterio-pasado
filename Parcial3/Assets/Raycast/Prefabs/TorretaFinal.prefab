@@ -338,7 +338,7 @@ MonoBehaviour:
         - 
         - 
         actionEnabled: 01010101
-        actionIsOpen: 00000000
+        actionIsOpen: 00010000
         actionStartIndex: 0000000009000000190000001c000000
         actionHashCodes: 4e661301d3bd7b0571c75a030c0e5502
         unityObjectParams: []
@@ -623,7 +623,7 @@ MonoBehaviour:
         - 
         - 
         actionEnabled: 0101010001010101
-        actionIsOpen: 0000000000000000
+        actionIsOpen: 0000010100010000
         actionStartIndex: 0000000009000000190000001c00000022000000280000003100000034000000
         actionHashCodes: 4e661301d3bd7b0571c75a030c0e550260532301febdb4019ff80c0248c01101
         unityObjectParams: []
@@ -1842,7 +1842,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6248289058960539606}
   m_Layer: 0
-  m_Name: Torreta
+  m_Name: TorretaFinal
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

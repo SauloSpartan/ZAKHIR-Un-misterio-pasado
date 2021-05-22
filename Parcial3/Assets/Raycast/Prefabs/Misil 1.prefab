@@ -302,7 +302,7 @@ MonoBehaviour:
         fsmQuaternionParams: []
         stringParams:
         - Muerte
-        byteData: 01
+        byteData: 00
         arrayParamSizes: 
         arrayParamTypes: []
         customTypeSizes: 
