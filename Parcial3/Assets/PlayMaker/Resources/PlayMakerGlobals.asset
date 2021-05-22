@@ -31,6 +31,12 @@ MonoBehaviour:
       showInInspector: 0
       networkSync: 0
       value: {x: 0, y: 0, z: 0}
+    - useVariable: 1
+      name: NV2
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {x: 0, y: 0, z: 0}
     colorVariables: []
     rectVariables: []
     quaternionVariables: []
@@ -42,7 +48,7 @@ MonoBehaviour:
     enumVariables: []
     categories:
     - 
-    variableCategoryIDs: 0000000000000000
+    variableCategoryIDs: 000000000000000000000000
   events:
   - Gravedad Normal
   - Gravedad Invertida
