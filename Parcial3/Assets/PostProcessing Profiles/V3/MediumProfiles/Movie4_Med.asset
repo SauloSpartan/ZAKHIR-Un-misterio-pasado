@@ -84,13 +84,13 @@ MonoBehaviour:
     overrideState: 1
     value: 1
   focusDistance:
-    overrideState: 0
+    overrideState: 1
     value: 10
   aperture:
-    overrideState: 0
+    overrideState: 1
     value: 5.6
   focalLength:
-    overrideState: 0
+    overrideState: 1
     value: 50
   kernelSize:
     overrideState: 0
@@ -227,7 +227,7 @@ MonoBehaviour:
     value: {x: 0.9404094, y: 0.9302124, z: 1, w: 0}
   gain:
     overrideState: 1
-    value: {x: 0.7506554, y: 0.81953704, z: 1, w: 0}
+    value: {x: 0.86657226, y: 0.90647674, z: 1, w: 0}
   masterCurve:
     overrideState: 0
     value:
@@ -1483,7 +1483,7 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 0.77
+    value: 1
   threshold:
     overrideState: 1
     value: 0.75
@@ -1533,7 +1533,7 @@ MonoBehaviour:
     value: 0
   intensity:
     overrideState: 1
-    value: 1
+    value: 0.4
   color:
     overrideState: 0
     value: {r: 0, g: 0, b: 0, a: 1}
@@ -1557,7 +1557,7 @@ MonoBehaviour:
     value: 0
   radius:
     overrideState: 1
-    value: 0.6
+    value: 0.4
   quality:
     overrideState: 1
     value: 2
@@ -1583,7 +1583,7 @@ MonoBehaviour:
     defaultState: 1
   intensity:
     overrideState: 1
-    value: 0.158
+    value: 0.15
   fastMode:
     overrideState: 0
     value: 0
@@ -1605,7 +1605,7 @@ MonoBehaviour:
     value: 1
   preset:
     overrideState: 1
-    value: 0
+    value: 2
   maximumIterationCount:
     overrideState: 0
     value: 16
@@ -1616,14 +1616,14 @@ MonoBehaviour:
     overrideState: 0
     value: 8
   maximumMarchDistance:
-    overrideState: 0
-    value: 100
+    overrideState: 1
+    value: 99.49
   distanceFade:
-    overrideState: 0
+    overrideState: 1
     value: 0.5
   vignette:
-    overrideState: 0
-    value: 0.5
+    overrideState: 1
+    value: 1
 --- !u!114 &114831765199059472
 MonoBehaviour:
   m_ObjectHideFlags: 3
