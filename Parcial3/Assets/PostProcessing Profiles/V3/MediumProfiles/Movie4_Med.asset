@@ -227,7 +227,7 @@ MonoBehaviour:
     value: {x: 0.9404094, y: 0.9302124, z: 1, w: 0}
   gain:
     overrideState: 1
-    value: {x: 0.7506554, y: 0.81953704, z: 1, w: 0}
+    value: {x: 0.8230836, y: 0.8600088, z: 1, w: 0}
   masterCurve:
     overrideState: 0
     value:
@@ -1483,7 +1483,7 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 0.77
+    value: 1
   threshold:
     overrideState: 1
     value: 0.75
@@ -1533,7 +1533,7 @@ MonoBehaviour:
     value: 0
   intensity:
     overrideState: 1
-    value: 1
+    value: 0.3
   color:
     overrideState: 0
     value: {r: 0, g: 0, b: 0, a: 1}
@@ -1557,7 +1557,7 @@ MonoBehaviour:
     value: 0
   radius:
     overrideState: 1
-    value: 0.6
+    value: 0.4
   quality:
     overrideState: 1
     value: 2
@@ -1573,7 +1573,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6050e2d5de785ce4d931e4dbdbf2d755, type: 3}
   m_Name: ChromaticAberration
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   enabled:
     overrideState: 1
     value: 1
@@ -1583,7 +1583,7 @@ MonoBehaviour:
     defaultState: 1
   intensity:
     overrideState: 1
-    value: 0.158
+    value: 0
   fastMode:
     overrideState: 0
     value: 0
