@@ -9,20 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8e6292b2c06870d4495f009f912b9600, type: 3}
+  m_Script: {fileID: 0}
   m_Name: Blood_High Profile
   m_EditorClassIdentifier: 
-  settings:
-  - {fileID: 114049471955364344}
-  - {fileID: 114766296710905760}
-  - {fileID: 114603967393617374}
-  - {fileID: 114390305381073778}
-  - {fileID: 114468511647068946}
-  - {fileID: 114705176238370568}
-  - {fileID: 114359365496500984}
-  - {fileID: 114162113334392816}
-  - {fileID: 114831765199059472}
-  - {fileID: 114295495009126386}
 --- !u!114 &114049471955364344
 MonoBehaviour:
   m_ObjectHideFlags: 3
